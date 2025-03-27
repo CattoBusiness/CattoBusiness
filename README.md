@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@MikuHollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />                                                                                                                                                                                                                                                                        </a>
-  <a href="https://steamcommunity.com/id/lakeyawner/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <a href="https://www.youtube.com/@MikuHollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+  <a href="https://steamcommunity.com/id/mikuxxxx/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CattoBusiness&show_icons=true&theme=algolia&hide_title=true&count_private=true" />
